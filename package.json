@@ -1,0 +1,25 @@
+{
+  "name": "cherrydap",
+  "description": "CherryDAP's documentation",
+  "version": "1.0.0",
+  "license": "CC-BY-SA 4.0",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
+    "docs:update-package": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.24",
+    "vue": "^3.5.21",
+    "vuepress": "2.0.0-rc.24",
+    "vuepress-theme-hope": "2.0.0-rc.94"
+  },
+  "dependencies": {
+    "@vuepress/plugin-markdown-image": "2.0.0-rc.112",
+    "@vuepress/plugin-markdown-tab": "2.0.0-rc.112",
+    "@vuepress/plugin-redirect": "2.0.0-rc.112",
+    "sass-embedded": "^1.91.0"
+  }
+}
