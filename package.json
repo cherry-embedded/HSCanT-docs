@@ -1,6 +1,6 @@
 {
-  "name": "cherrydap",
-  "description": "CherryDAP's documentation",
+  "name": "hscant-docs",
+  "description": "HSCanT's documentation",
   "version": "1.0.0",
   "license": "CC-BY-SA 4.0",
   "type": "module",
