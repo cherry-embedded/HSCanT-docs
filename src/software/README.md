@@ -22,4 +22,4 @@ title: 配套软件
 
 ## hscant在ecubus的基础使用
 
-- [HSCanT在Ecubus上位机的基础使用教程](./Ecubus_Pro_basic_usage_guide/Ecubus_Pro_basic_usage_guide.md)
+- [HSCanT在Ecubus上位机的基础使用教程](./Ecubus_Pro_basic_usage_guide/README.md)
