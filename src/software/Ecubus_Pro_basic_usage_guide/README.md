@@ -1,3 +1,7 @@
+---
+title: EcuBus-Pro四路CANFD设备HSCanT基本使用指南
+---
+
 # 一、前言
 
 本文主要针对如何使用四路CANFD的HSCanT设备在EcuBus-Pro上位机软件的一些基础使用，方便用户快速使用起来。

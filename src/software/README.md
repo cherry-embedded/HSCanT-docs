@@ -12,7 +12,9 @@ title: 配套软件
 - 如何进入升级模式 (仅支持windows下升级)
   - 长按按键直到全部RGB灯闪烁红色，然后windows下会弹出U盘，把对应的固件uf2文件拖拽到U盘，直到RGB灯不再闪烁，SYS灯在闪烁表示升级成功，然后再次用ecubus pro查看hscant版本是否为最新
 
-- [点击查看固件列表](./firmware/)
+### 固件列表
+
+- [APP v1.0.4](/firmware/hpmicro_canfd_box_app_v1.0.4.uf2)
 
 ## hscant在ecubus的基础使用
 
