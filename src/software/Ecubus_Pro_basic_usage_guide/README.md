@@ -2,7 +2,7 @@
 title: EcuBus-Pro四路CANFD设备HSCanT基本使用指南
 ---
 
-# 一、前言
+## 一、前言
 
 本文主要针对如何使用四路CANFD的HSCanT设备在EcuBus-Pro上位机软件的一些基础使用，方便用户快速使用起来。
 
@@ -10,9 +10,9 @@ title: EcuBus-Pro四路CANFD设备HSCanT基本使用指南
 
 https://app.whyengineer.com/zh/docs/um/can/can.html
 
-# 二、EcuBus-Pro上位机准备
+## 二、EcuBus-Pro上位机准备
 
-## （一）软件下载和安装
+### （一）软件下载和安装
 
 EcuBus-Pro上位机下载以及安装链接，可从github或者国内CDN进行下载
 
@@ -39,9 +39,9 @@ https://app.whyengineer.com/zh/docs/about/install.html
 
 ---
 
-# 三、EcuBus-Pro基本使用
+## 三、EcuBus-Pro基本使用
 
-## （一）新建空白项目
+### （一）新建空白项目
 
 在New窗口点击新建空白工程Create Empty Project，该工程可以进行保存，然后下次可以重复打开。
 
@@ -49,7 +49,7 @@ https://app.whyengineer.com/zh/docs/about/install.html
 
 ---
 
-## （二）项目添加HSCanT设备
+### （二）项目添加HSCanT设备
 
 点击任务栏的Hardware，选择Devices，下来选择到CANDLE，点击CAN，搜索Device，即可看到四路或者多路canfd的HSCanT设备。
 
@@ -93,7 +93,7 @@ https://app.whyengineer.com/zh/docs/about/install.html
 
 ---
 
-## （三）项目添加交互器，管理设备待发送的帧消息
+### （三）项目添加交互器，管理设备待发送的帧消息
 
 点击Hardware->Network,在窗口中点击Interactive添加一个交互器
 
@@ -113,7 +113,7 @@ https://app.whyengineer.com/zh/docs/about/install.html
 
 ---
 
-## （四）收发测试
+### （四）收发测试
 
 点击Start,信息栏提示HSCanT相关软件和硬件版本等信息，还有设备的启动成功
 
@@ -170,7 +170,3 @@ https://app.whyengineer.com/zh/docs/about/install.html
 ![图片](Ecubus_Pro_basic_usage_guide_images/image_20.png)
 
 ---
-
-
-
-
